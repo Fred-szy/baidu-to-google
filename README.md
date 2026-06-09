@@ -31,14 +31,14 @@ Bing 搜索 → 探测 Google（1.5s 超时）
 
 **方法一：一键安装（推荐）**
 
-点击此链接直接安装：[baidu-to-google.user.js](https://raw.githubusercontent.com/Fred-szy/bing-to-google/main/baidu-to-google.user.js)
+点击此链接直接安装：[bing-to-google.user.js](https://raw.githubusercontent.com/Fred-szy/bing-to-google/main/bing-to-google.user.js)
 
 Tampermonkey 会自动识别 `.user.js` 文件并弹出安装确认页面。
 
 **方法二：手动安装**
 
 1. 打开 Tampermonkey → 管理面板 → 新建脚本
-2. 将 `baidu-to-google.user.js` 的内容粘贴进去
+2. 将 `bing-to-google.user.js` 的内容粘贴进去
 3. `Ctrl+S` 保存
 
 **安装完成后：**
