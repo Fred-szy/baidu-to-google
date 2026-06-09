@@ -1,5 +1,8 @@
 # Baidu to Google
 
+[![GitHub release](https://img.shields.io/github/v/release/Fred-szy/baidu-to-google)](https://github.com/Fred-szy/baidu-to-google/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > **声明：本项目禁止在中国大陆地区使用、传播或转发。任何在中国大陆境内的使用行为均与本项目无关，作者不承担任何相关责任。**
 
 一个 Tampermonkey 油猴脚本，在百度搜索时自动检测 Google 是否可访问，可访问则自动跳转，不可访问则静默留在百度。
