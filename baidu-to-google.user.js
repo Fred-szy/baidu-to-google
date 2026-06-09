@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name         Baidu to Google
+// @name         Bing to Google
 // @namespace    https://github.com/Fred-szy/baidu-to-google
-// @version      1.0.0
-// @description  Automatically redirects Baidu searches to Google when Google is accessible
+// @version      1.1.0
+// @description  Automatically redirects Bing searches to Google when Google is accessible
 // @author       Fred-szy
-// @match        https://www.baidu.com/s*
+// @match        https://www.bing.com/search*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
 
 (function () {
     const TIMEOUT_MS = 1500;
-    const query = new URLSearchParams(window.location.search).get('wd');
+    const query = new URLSearchParams(window.location.search).get('q');
 
     if (!query) return;
 
