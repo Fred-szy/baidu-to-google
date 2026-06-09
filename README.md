@@ -1,6 +1,6 @@
 # Bing to Google
 
-[![GitHub release](https://img.shields.io/github/v/release/Fred-szy/baidu-to-google)](https://github.com/Fred-szy/baidu-to-google/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/Fred-szy/bing-to-google)](https://github.com/Fred-szy/bing-to-google/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **声明：本项目禁止在中国大陆地区使用、传播或转发。任何在中国大陆境内的使用行为均与本项目无关，作者不承担任何相关责任。**
@@ -31,7 +31,7 @@ Bing 搜索 → 探测 Google（1.5s 超时）
 
 **方法一：一键安装（推荐）**
 
-点击此链接直接安装：[baidu-to-google.user.js](https://raw.githubusercontent.com/Fred-szy/baidu-to-google/main/baidu-to-google.user.js)
+点击此链接直接安装：[baidu-to-google.user.js](https://raw.githubusercontent.com/Fred-szy/bing-to-google/main/baidu-to-google.user.js)
 
 Tampermonkey 会自动识别 `.user.js` 文件并弹出安装确认页面。
 

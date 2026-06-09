@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bing to Google
-// @namespace    https://github.com/Fred-szy/baidu-to-google
+// @namespace    https://github.com/Fred-szy/bing-to-google
 // @version      1.1.0
 // @description  Automatically redirects Bing searches to Google when Google is accessible
 // @author       Fred-szy
